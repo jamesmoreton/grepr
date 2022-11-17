@@ -5,7 +5,7 @@ edition = "2021"
 
 [dependencies]
 anyhow = "1.0" # Error type
-clap = { version = "3.2.15", features = ["derive"] } # CLI Parser
+clap = { version = "4.0.26", features = ["derive"] } # CLI Parser
 
 [dev-dependencies]
 assert_cmd = "2.0"
