@@ -9,5 +9,5 @@ clap = { version = "4.2.1", features = ["derive"] } # CLI Parser
 
 [dev-dependencies]
 assert_cmd = "2.0"
-predicates = "2.1"
+predicates = "3.0"
 assert_fs = "1.0"
